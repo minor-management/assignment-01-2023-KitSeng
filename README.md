@@ -4,7 +4,7 @@ This repo is created to give the Computer Science students minimum exposure to M
 ## Assignment 1
 
 In this assignment, you will have to complete 9 questions. To begin this assignment, open [`assignment-01.md`](assignment-01.md) and follow the instructions there. <br>
-The **first five** completion will be entitled to my management study materials! Due 28-Mar-2022, 11.59 PM. <br> 
+The **first five** completion will be entitled to ALL my management study materials (5 courses)! Due 06-Mar-2023, 11.59 PM. <br> 
 The first five completer will received my email within 7 working days after the due date.
 
 **Important:** When you're finished with the assignment, make sure to commit and push your work!
