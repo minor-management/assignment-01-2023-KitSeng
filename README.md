@@ -18,4 +18,7 @@ Make good use of the [writing syntax](https://docs.github.com/en/get-started/wri
 <br>
 Have fun! <br>
 
+Prepared by,<br>
+Teoh Sin Yee <br>
+Final Year Computer Science Student USM<br>
 teohsinyee.cs@gmail.com
