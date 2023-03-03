@@ -1,30 +1,17 @@
-### Type your answer after every question. You are required to cite your reference for every question.
+### Type your answer after every question. 
+Requirement:
+- Must cite your reference for every question.
+- Minimum 3 points for every question.
 
-E.g. Question <br>
-{Answer} {Reference}
-
-1. What is the difference between private limited and public limited company? State one example for each type.
-
-2. Why is Berjaya Sports Toto Berhad registered under Non-Shariah Compliant?
-
-3. List down 3 Non-Shariah Compliant Business Activities. 
-
-4. Name the stock exchange of Malaysia.
-
-5. Create a new folder name 'AR' in your _repo main branch_. Upload Annual Report 2018 - 2020 for companies below: <br>
-(a) ViTrox Corp <br>
-(b) Pentamaster Corp <br> 
-*There should be at least 6 PDF files. <br>
-
-6. Who are the users of annual reports?
-
-7. What is the most important part of an annual report?
-
-8. You have RM 10,000 savings and want to purchase shares as an investment for earning side income. 
-You have listed two potential companies and need to select one company to invest. 
-Comparing _Pentamaster Corporation Bhd._ and _ViTrox Corporation Bhd._ Justify your investment choice.
-
-9. List down at least 2 investment resources (blogs/any media) that you found useful.
+**1. Why is it difficult to find a bench in a shopping mall? <br>**
+Write your answer here... Plus citation. <br><br>
+**2. In what ways does the Ukraine war affect your day-to-day life?<br>**
+<br>
+**3. Why is big tech facing massive layoffs?<br>**
+<br>
+**4. How do the big tech's massive layoffs affect you as students?<br>**
+<br>
+**5. What was the financial impact of the [Ever Given cargo ship blocking the Suez Canal in 2021](https://en.wikipedia.org/wiki/2021_Suez_Canal_obstruction)?**
 
 -- End -- <br>
 *Add 'Completed' as commit message after completing the assignment.
